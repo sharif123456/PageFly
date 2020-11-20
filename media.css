@@ -92,3 +92,14 @@
 {
 
 }
+
+@media(max-width: 600px){
+	.heading2 h1 {
+    margin-left: 10px;
+    padding: 24px 0;
+    font-size: 47px;
+}
+.join-section img {
+    width: 400px;
+}
+}
