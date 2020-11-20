@@ -1,0 +1,203 @@
+body{
+	font-family: 'Poppins', sans-serif;}
+
+.navbar{
+    box-shadow: 0 0 0 1px #00000024;
+}
+ .navbar-brand img{
+    padding: 16px 0px;
+    width: 131px;
+    margin-left: 105px;
+}
+.nav-item{
+    margin-right: 34px;
+    margin-left: 30px;
+}
+.nav-link{
+    font-size: 16px;
+    font-weight: 700;
+}
+.search {
+    margin-right: 22px;
+}
+.search .input{
+    width: 34px!important;
+    border-radius: 22px;
+    padding: 5px;
+    color: black;
+    border: 1px solid;
+    margin-right: 10px;
+}
+.search button{
+    background: #5F67FF;
+    color: white;
+}
+.search button:hover{background: #1e25b5;color: white;}
+
+
+
+.partner-section{}
+.partner-section h1{
+    background: #5F67FF;
+    display: inline-block;
+    padding: 23px 115px;
+    margin-top: 67px;
+    color: white;
+    font-size: 46px;
+    font-weight: bold;
+    border-radius: 0px 6px 6px 0px;
+}
+
+.heading{}
+.heading h2{font-size: 62px;
+    color: #5F67FF;
+    margin-top: 27px;
+    font-weight: 800;}
+.heading h3{
+    margin-top: 16px;
+    font-weight: 800;
+    color: #000000c9;
+    font-size: 30px;
+}
+.partner-section img{max-width: 100%;}
+.partner-section h2{
+    
+font-size: 17px;
+    
+margin-top: 20px;
+    
+font-weight: 700;
+}
+.partner-section p{
+    font-size: 15px;
+    font-weight: 400;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.partner-section .ps1{
+}
+.partner-section .box1{
+    box-shadow: 0px 1px 27px 0px rgb(214 232 243);
+}
+
+
+
+.join-section{
+    margin-top: 100px;
+}
+.join-section .box2{
+    box-shadow: 0px 18px 24px 0px rgb(214 232 243);
+    padding: 30px;
+}
+.join-section img{}
+.join-section h1{
+    font-size: 30px;
+    color: #5F67FF;
+    font-weight: 800;
+    padding-bottom: 10px;
+}
+.join-section h2{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.6;
+}
+.join-section p{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.6;
+}
+
+
+
+
+.partner-section2{
+    margin-top: 80px;
+}
+.partner-section2 .col{}
+.heading2{}
+.heading2 h1{
+    margin-left: 712px;
+    padding: 25px 0;
+    font-size: 60px;
+    font-weight: 600;
+    color: #5F67FF;
+}
+.partner-section2 img{width: 279px;height: 150px;padding: 37px;object-fit: contain;}
+.partner-section2 span{
+}
+.partner-section2 .client h1{
+    font-size: 18px;
+    padding-top: 30px;
+}
+.partner-section2 p{}
+.partner-section2 .box3{box-shadow: 0px 18px 24px 0px rgb(214 232 243);border-top: 6px solid #5F67FF;margin-top: 25px;}
+
+.partner-section2 .banner
+
+
+
+
+.partner-section3{
+   
+}
+.heading3{ margin-top: 90px;}
+.heading3 h1{
+    font-size: 35px;
+    font-weight: 600;
+}
+.partner-section3 .col-lg-3 h1{
+    font-size: 106px;
+    font-weight: 600;
+    color: #5F67FF;
+}
+.partner-section3 .col-lg-3 h3{
+    font-size: 17px;
+    font-weight: 700;
+}
+.partner-section3 .col-lg-3 p{
+    font-size: 15px;
+    font-weight: 400;
+}
+
+
+
+.button{
+    margin: 40px;
+    background: #5F67FF;
+    color: white;
+    }
+.button:hover{background: #1e25b5;color: white;}
+
+
+
+
+footer{
+    background: #333333;
+}
+footer ul{
+    padding-top: 76px;
+}
+footer li{
+    color: white;
+    padding: 7px 0px;
+    list-style: none;
+}
+footer hr{
+
+}
+footer p{
+	margin: 0;
+    color: white;
+    border-top: 1px solid;
+    padding: 20px 0;
+    margin-top: 20px;
+    padding-left: 30px;
+}
+
+
+
+.title{
+    font-size: 24px;
+    font-weight: 600;
+}
